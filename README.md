@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hello,+I'm+Yogendra;I+Build+AI+Solutions;I+Ship+Production+Code" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yogendra Bisht</h1>
 <h3 align="center">🚀 CS Undergrad | AI/ML | Full-Stack Developer | Problem Solver | C++ | Python | Next.js | Generative AI </h3>
 
@@ -19,6 +23,7 @@
 <a href="https://linkedin.com/in/yogendra-bisht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="mailto:workforrhody7@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/bhanuxbisht/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" alt="leetcode" height="40" width="40" /></a>
+<a href="https://yogendrabisht.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/link--v1.png" alt="portfolio" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
